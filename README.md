@@ -1,16 +1,23 @@
-## Hi there 👋
+```text
+XX                                               XX 
+XXXX                                           XXXXX
+XXXXX                    XXXX                XXXXXXX
+XXXXXXX                XXXXXXX              XXXXXXX 
+XXXXXXXX             XXXXXXXXXX           XXXXXXXXX 
+ XXXXXXXX         XXXXXXX  XXXXXX        XXXXXXXXXX 
+ XXXXXXXXXX     XXXXXXX      XXXXXX     XXXXXX XXXX 
+ XXXXXXXXXXX  XXXXXX          XXXXXXXX XXXXX   XXXX 
+ XXXX  XXXXXXXXXXX              XXXXXXXXXXX    XXXX 
+ XXXX   XXXXXXXX                  XXXXXXXX     XXXX 
+  XXX    XXXXXXXX                 XXXXXXXX     XXXX 
+  XXX  XXXXXXXXXXX               XXXXXXXXXXX   XXXX 
+  XXXXXXXXX   XXXXXX            XXXXXX   XXXXXXXXXX 
+  XXXXXXX       XXXXX          XXXXXX     XXXXXXXXX 
+  XXXXXX         XXXXXX      XXXXXXX         XXXXXXX
+  XXXX X          XXXXXX    XXXXXXX           XXXXX 
+   X               XXXXXXXXXXXXXXXX           XX    
+                    XXXXXXXXXXXXX                   
+                     XXXXXXXXXXX                    
+                      XXXXXXXX                      
+                         XX                         
 
-<!--
-**luiisszx/luiisszx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
